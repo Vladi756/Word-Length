@@ -4,6 +4,7 @@
 #define MAXCOUNT 10
 #define MAXLENGTH 100
 
+
 int i;
 char words[MAXCOUNT][MAXLENGTH];
 char* shortestWord(char array[MAXCOUNT][MAXLENGTH]);
